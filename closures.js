@@ -23,5 +23,4 @@ function callMeMaybe() {
         console.log(callMe)
     }, 4000)
 }
-
 callMeMaybe();
