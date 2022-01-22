@@ -8,7 +8,6 @@ function a() {
         }
     }
 }
-
 const first = a()()()
 consol.log(first)
 
